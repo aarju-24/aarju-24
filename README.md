@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./profile-banner.png" alt="Arzoo - Quantitative Research, Machine Learning and Financial Modeling">
-</p>
-<h1 align="center">Hi, I'm Arzoo </h1>
+
 
 <p align="center">
   Mathematics & Scientific Computing @ IIIT Gwalior
