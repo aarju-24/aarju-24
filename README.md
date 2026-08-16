@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Arzoo - Quantitative Research, Machine Learning and Financial Modeling">
+</p>
 <h1 align="center">Hi, I'm Arzoo </h1>
 
 <p align="center">
@@ -94,7 +97,7 @@ An AI-driven project exploring machine learning and data-driven approaches for p
 
 ### Development
 
-`Flask` `React` `Git` `GitHub` `Docker` `Linux`
+`Flask` `Streamlit` `Git` `GitHub` 
 
 ---
 
