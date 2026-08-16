@@ -57,7 +57,7 @@ An interactive quantitative research platform for discovering and evaluating sta
 **Tech:** Python • Pandas • Statsmodels • Flask • JavaScript
 
 
-### OptionLab(https://github.com/aarju-24/OptionLab)
+### OptionLab
 
 A quantitative finance project focused on options analysis, financial modeling, and quantitative decision-making.
 
