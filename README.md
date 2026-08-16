@@ -79,23 +79,23 @@ An AI-driven project exploring machine learning, anomaly detection, and data-dri
 
 ---
 
-## What I Work With
+## Technical Skills
 
-### Languages
+### Programming
+`Python` `C++` `SQL`
 
-`Python` `C++` `SQL` 
+### Data & Visualization
+`Pandas` `NumPy` `Matplotlib`
 
-### Quantitative & Data
+### Machine Learning
+`PyTorch` `XGBoost` `Random Forest`
 
-`NumPy` `Pandas` `SciPy` `Statsmodels` `Scikit-learn`
+### Quantitative & Statistical Methods
+`Probability` `Hypothesis Testing` `Regression` `Time Series Analysis`  
+`Stationarity` `Cointegration` `Constrained Optimization`
 
-### Visualization
-
-`Matplotlib` `Plotly`
-
-### Development
-
-`Flask` `Streamlit` `Git` `GitHub` 
+### Development & Tools
+`Flask` `Git` `PyTest`
 
 ---
 
