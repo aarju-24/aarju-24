@@ -48,33 +48,32 @@ Worked on a quantitative research platform focused on statistical arbitrage and 
 
 ## Featured Projects
 
-###  Quantitative Cointegration Dashboard
+### Quantitative Cointegration Dashboard
 
-An interactive quantitative research platform for exploring statistical arbitrage and cointegration-based pair selection.
+An interactive quantitative research platform for discovering and evaluating statistically suitable pairs for statistical arbitrage.
 
-**Focus:** Financial Time Series • Statistical Arbitrage • Cointegration • Research Workflow
+**Key Work:** Stationarity • Mean Reversion • Engle–Granger • Johansen • Rolling Analysis • Hedge Ratios
 
----
+**Tech:** Python • Pandas • Statsmodels • Flask • JavaScript
 
-###  OptionLab
 
-A quantitative finance project focused on options analysis and financial modeling.
+### OptionLab(https://github.com/aarju-24/OptionLab)
 
-**Focus:** Quantitative Finance • Options • Python
+A quantitative finance project focused on options analysis, financial modeling, and quantitative decision-making.
 
----
+**Focus:** Options • Quantitative Finance • Financial Modeling • Python
 
-###  Stock Direction Forecasting
 
-A machine-learning project focused on predicting stock price direction using historical market data and engineered features.
+### Stock Direction Forecasting
 
-**Focus:** Machine Learning • Time Series • Financial Data
+A machine-learning project for predicting stock price direction using historical market data and engineered financial features.
 
----
+**Focus:** Machine Learning • Time Series • Feature Engineering • Financial Data
 
-###  Project Rakshak
 
-An AI-driven project exploring machine learning and data-driven approaches for public safety and fraud detection.
+### Project Rakshak
+
+An AI-driven project exploring machine learning, anomaly detection, and data-driven approaches for public safety and fraud detection.
 
 **Focus:** AI/ML • Anomaly Detection • Data Analysis
 
