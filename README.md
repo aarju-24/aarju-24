@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Quantitative Research • Machine Learning • Financial Modeling • Python</b>
+  <b>Building research-oriented systems at the intersection of mathematics, financial markets, and machine learning.</b>
 </p>
 
 <p align="center">
